@@ -1,0 +1,12 @@
+# 데이터 파일 제외
+data/
+test/
+
+# 파이썬 가상환경 제외
+venv/
+.venv/
+
+# 모델 파일 및 캐시
+*.keras
+*.h5
+__pycache__/
