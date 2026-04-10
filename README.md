@@ -17,7 +17,7 @@
 
 | 분류 | 스택 | 
 |------|------|
-| 개발 언어 | **Python (AI/Backend), Kotlin (Android)** |
+| 개발 언어 | **Python (AI/Backend), react (JavaScript)** |
 | AI & Logic | **ResNet50, Grad-CAM, EWMA Algorithm** |
 | Infrastructure | **Microsoft Azure** | 
 | Server | **WebSocket (Python based Server)** |
